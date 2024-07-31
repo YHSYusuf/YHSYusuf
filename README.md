@@ -21,3 +21,6 @@ if ( profile.username == 'x.reactive_' ) {
 ```
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/848526275059777566)](https://discord.com/users/848526275059777566)
+
+
+(https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
