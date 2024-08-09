@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm xReactive</h1>
-<h3 align="center">Discord bot and Site Developer, <a color="blue">Code Blog</a> owner.</h3>
+<h3 align="center">Discord Bot & Site Developer, <u><a style="color: #0051ff;">Code Blog</a></u> owner.</h3>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-F06529?style=for-the-badge&logo=html5&logoColor=F06529&labelColor=000000">
