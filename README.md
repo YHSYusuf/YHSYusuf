@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm xReactive</h1>
+<h1 align="center">Hi 👋, I'm xReactive</h1>
 <h3 align="center">Discord Bot & Site Developer, <span style="color: #0051ff;"><u>Code Blog</u></span> owner.</h3>
 <br>
 <div align="center">
